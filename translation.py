@@ -24,20 +24,20 @@ Made by @Mo_Tech_YT
 """
     ABOUT_TEXT = """
 - **Bot :** URL Uploader
-- **Creator :** [Mrk](https://telegram.dog/Mrk_YT)
-- **Channel :** [MoTech](https://telegram.dog/Mo_Tech_YT)
+- **Creator :** [beera](https://t.me/beereshbanakards)
+- **Channel :** [BAGURUJOINAGUUKANNADAMOVIES_17](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/MRK-YT/MT-URL-Uploader)
+- **Group   :** [Click here](https://t.me/searchkannadamovies)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
-- **Tutorial :** [Video](https://youtu.be/nRSbkf3memQ)
+- **contact :** [owner](https://t.me/beereshbanakards)
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Mo_tech_group'),
-        InlineKeyboardButton('🤖Bot List', url='https://t.me/Mo_Tech_YT/176'),
-        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/nRSbkf3memQ')
+        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/searchkannadamovies'),
+        InlineKeyboardButton('owner', url='https://t.me/beereshbanakards'),
+        InlineKeyboardButton('channel', url='https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -46,9 +46,9 @@ Made by @Mo_Tech_YT
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Mo_tech_group'),
-        InlineKeyboardButton('🤖Bot List', url='https://t.me/Mo_Tech_YT/176'),
-        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/nRSbkf3memQ')
+        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/searchkannadamovies'),
+        InlineKeyboardButton('owner', url='https://t.me/beereshbanakards'),
+        InlineKeyboardButton('channel', url='https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17')
         ],[
         InlineKeyboardButton('Home', callback_data='home'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -57,9 +57,9 @@ Made by @Mo_Tech_YT
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Mo_tech_group'),
-        InlineKeyboardButton('🤖Bot List', url='https://t.me/Mo_Tech_YT/176'),
-        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/nRSbkf3memQ')
+        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/searchkannadamovies'),
+        InlineKeyboardButton('owner', url='https://t.me/beereshbanakards'),
+        InlineKeyboardButton('channel', url='https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17')
         ],[
         InlineKeyboardButton('Home', callback_data='home'),
         InlineKeyboardButton('Help', callback_data='help'),
